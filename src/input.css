@@ -27,3 +27,4 @@ body{
 .hamburger-active >  .hamburger-line:nth-child(3) {
     @apply -rotate-45;
 }
+

@@ -7,6 +7,7 @@ module.exports = {
       padding : '16px',
     },
     extend: {
+      scrollBehavior: ['scroll-smooth'],
       colors : {
         primary : "#5b21b6",
         dark : "#0f172a",
