@@ -9,9 +9,9 @@ module.exports = {
     extend: {
       scrollBehavior: ['scroll-smooth'],
       colors : {
-        primary : "#5b21b6",
-        dark : "#0f172a",
-        secondary : "#64748b",
+        primary : "#7c3aed",
+        dark : "#c4b5fd",
+        secondary : "#f8fafc",
       },
       screens : {
         '2xl' : '1320px',
